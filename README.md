@@ -27,5 +27,7 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/charan.durga) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi) 
   ## my fav movie character
-  [![favmovie]([https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZzaTJzZzcwdjA2aDdzcDBtcjFocnNneGNic2VzeDR2MmlmdHRhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8zYunr3Hg8XPq/giphy.gif](https://giphy.com/gifs/rickroll-rick-astley-never-gonna-give-you-up-Vuw9m5wXviFIQ)
 
+<p align="center">
+  <img src="[[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm41bDBrOWJidWNuM2NwcDI5ejM4YzlhcGZuYnRxY2x1NGUwaDFkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vuw9m5wXviFIQ/giphy.gif)](https://www.google.com/imgres?q=cool%20coder%20images&imgurl=https%3A%2F%2Fimages.stockcake.com%2Fpublic%2F4%2F7%2Fb%2F47b76cb0-8a9c-4d1e-88c0-826385e9183d_large%2Fcoder-at-work-stockcake.jpg&imgrefurl=https%3A%2F%2Fstockcake.com%2Fi%2Fcoder-at-work_1164043_1069849&docid=D5LhG_m_q-O91M&tbnid=9e6MVbNzmf1SNM&vet=12ahUKEwjFodKD2vuPAxWvSWwGHa1dL14QM3oECBcQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjFodKD2vuPAxWvSWwGHa1dL14QM3oECBcQAA)" width="400">
+</p>
